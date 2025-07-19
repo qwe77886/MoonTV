@@ -76,6 +76,31 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "fcjin": {
+      "api": "https://fczy908.com/",
+      "name": "蜂巢资源站"
+    },
+    "hhjin": {
+      "api": "https://haohuazy.com/",
+      "name": "豪华资源站"
+    },
+    "mdjin": {
+      "api": "https://moduzy.com/",
+      "name": "魔都资源站"
+    },
+    "hhjin": {
+      "api": "https://cj.huohua.live/",
+      "name": "火花资源站"
+    },
+    "sbjin": {
+     "api": "https://www.suboziyuan.net/",
+     "name": "速播资源站"
+    },
+    "qljin": {
+     "api": "https://www.qilinzyz.com/",
+     "name": "麒麟资源站"
+    }
     }
   }
 }
